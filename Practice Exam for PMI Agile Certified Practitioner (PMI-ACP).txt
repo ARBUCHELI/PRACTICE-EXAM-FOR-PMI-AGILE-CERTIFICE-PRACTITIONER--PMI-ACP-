@@ -1,0 +1,79 @@
+# PRACTICE EXAM POR PMI AGILE CERTIFICE PRACTITIONER (PMI-ACP)
+--------------------------------------------------------------
+
+* About the practice exam
+-------------------------
+Practice exams are key to preparing for a certification exam. They enable you to assess your knowledge and identify areas where you may need additional preparation. 
+
+Let's take a closer look at the LinkedIn Learning Practice exams. From the course landing page, there are two places where you can launch your exam. 
+
+Select either one to explore the testing options. 
+
+After you enter, instructions are provided. Then you can start an untimed or timed exam or even create a custom exam. 
+
+And don't worry about which option to choose. You can take the practice exam as many times as you want in any of these modes. 
+
+* First, let's look at the untimed exam. 
+
+	. From the instructions page, you can select the start untimed button to begin an untimed exam. 
+
+	. Untimed exams are a way to practice for the actual certification exam without the pressure of being timed. 
+
+	. These provide the same number and types of questions that you'll see on the certification exam, but without a timer so you can work at your own pace. 
+
+	. In an untimed exam, you may leave and resume as many times as you need until you select finish exam.
+ 
+
+* Now let's go back and see what the timed exam looks like. 
+
+	. If you'd like to see if you're ready for exam day, you can select start timed button. Like the untimed option, these timed exams are meant to give you a feel for the actual 
+	exam. 
+
+	. They have the same number and types of questions, as well as a timer that's set to the same length of time you'll have to complete the certification exam. 
+
+	. On timed exams, you must complete the exam in one attempt. You are not able to start and stop the timer. 
+
+	. If you leave the practice exam before you select finish exam, your timer will continue and your attempt will end once the timer has expired. 
+
+
+* Finally, let's look at create custom exam. From the instructions page, select create custom exam. 
+
+	. You will want to use the custom exam option if you want to focus on a specific certification domain or multiple domains. 
+
+	. Custom exams enable you to select which of the exam topics you want to practice. 
+
+	. These topics correspond to the main exam domains. You can also select the number of questions that you want in the practice exam. 
+
+	. It's also important to note that the custom exam is untimed, so you can stop it and return to the same exam as many times as you'd like. 
+
+
+* After finishing a practice exam using any mode, take time to review your exam results. Let's see what that looks like. 
+
+	. This is a great opportunity to assess where you consistently score well and identify areas where you need additional preparation. 
+
+	. Our practice exams provide detailed results for each attempt. You will see an overall exam score along with the scores for each topic. 
+
+	. These topics align with the domains or competencies for each certification. The scores per topic are broken down to help you identify your strengths and weaknesses. 
+
+
+* And remember, if you want to practice a specific domain, you can go back and create a custom exam. Select a question to review the feedback for that specific question. 
+
+	. Each question will provide an explanation for the correct and incorrect answers. This is especially useful to help you understand why you got an answer wrong. 
+
+	. Additionally, you can filter the question to review by topic and wrong answers. You can also review any of the exams you've taken by viewing your attempt history. 
+
+
+* Let's see what that looks like. Each time you finish an exam, your exam results will be displayed in your attempt history so you can compare your tests. 
+
+	. This is helpful to see how you are improving over time and which topics you should focus your attention on. 
+
+	. If you need more practice or want to practice with different question sets, there are additional practice exams available. 
+
+
+* It's a good practice strategy to take as many tests as possible since that will give you the most exposure to the types of questions you'll see on the certification exam. 
+
+	. You can find links to additional practice exams on the course details or by searching for the certification exam in the search bar. 
+
+	. Keep in mind the scores you earn on your practice exams are a good indicator for how you're progressing in your studies, but they won't guarantee a passing grade on the exam. 
+
+	. They can, however, relieve some of the anxiety that goes along with test taking and help ensure you're as prepared as possible when you sit for the exam.
